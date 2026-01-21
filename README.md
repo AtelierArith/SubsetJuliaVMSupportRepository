@@ -3,9 +3,9 @@
 ## In short
 
 Give it a try:
-Landing page: https://atelierarith.github.io/SubsetJuliaVMPage.jl/dev/
-iOS: https://apps.apple.com/en/app/subsetjuliavm/id6757257182
-Web: https://terasakisatoshi.github.io/subset_julia/
+- Landing page: https://atelierarith.github.io/SubsetJuliaVMPage.jl/dev/
+- iOS: https://apps.apple.com/en/app/subsetjuliavm/id6757257182
+- Web: https://terasakisatoshi.github.io/subset_julia/
 
 ## Remark
 
